@@ -1,0 +1,20 @@
+.list-item {
+  background-color: #e7f1ff;
+  margin: 16px;
+  padding: 12px;
+  border-radius: 8px;
+  width: 20%;
+  box-shadow: 9px 9px 18px #afafaf, -9px -9px 18px #ffffff;
+}
+.heading {
+  font-family: 'Fira Sans';
+  font-size: 23px;
+  text-align: start;
+  font-weight: 800;
+}
+.para {
+  font-family: 'Fira Sans';
+  font-size: 18px;
+  text-align: start;
+  font-weight: 500;
+}
